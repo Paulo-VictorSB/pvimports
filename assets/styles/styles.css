@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+:root {
+    --corprincipal: #795300; 
+    --corlink:      #b28405;
+    --cordestaque:  #efb810;
+    --corfundo:     #f9db5c;
+    --coropcional:  #ffff94;
+}
+
+div#patrocinio {
+    margin: auto;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+#logo-pvimports {
+    padding: -1px;
+}
+
+#divBusca{
+    background-color:#ffffff;
+    border:solid 1px;
+    border-radius:15px;
+    width:500px;
+    margin: auto;
+    margin-top: -60px;
+    padding: auto;
+  }
+  
+  #txtBusca{
+    background-color:transparent;
+    padding-left:5px;
+    font-style:normal;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:450px;
+  }
+
+  header {
+    background-color: black;
+    padding: 2%;
+    margin: 0px -20px;
+  }
