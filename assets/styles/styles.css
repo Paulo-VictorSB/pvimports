@@ -11,17 +11,18 @@
 div#patrocinio {
     margin: auto;
     text-align: center;
-    padding: 5px 10px;
+    padding: -5px 10px 5px 10px;
+
 }
 
 #logo-pvimports {
-    padding: -1px;
+    margin: -10px 0px -10px;
+    background-color: black;
 }
 
 #divBusca{
     background-color:#ffffff;
     border:solid 1px;
-    border-radius:15px;
     width:500px;
     margin: auto;
     margin-top: -60px;
@@ -38,8 +39,15 @@ div#patrocinio {
     width:450px;
   }
 
+  #listadesejo {
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin: auto;
+  }
+
   header {
     background-color: black;
-    padding: 2%;
+    padding: 10px;
     margin: 0px -20px;
   }
